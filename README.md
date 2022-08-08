@@ -8,7 +8,7 @@
 ### Sobre mim
 
 - 👨‍💻 Atuo como Estagiario de Suporte na 90ti.
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 2° período.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° período.
 - 🎮 Fanático por Games, adoro praticas esportivas, como o futebol que é paixão hehe..
 
 ### Tecnologias que eu uso no meu dia a dia 
