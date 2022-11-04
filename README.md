@@ -7,7 +7,7 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=devluanchristian&show_icons=true&theme=dracula)
 ### Sobre mim
 
-- 👨‍💻 Atuo como Estagiario de Suporte na 90ti.
+- 👨‍💻 Atuo como Estagiario de Desenvolvimento na NetAdmin Software.
 - 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° período.
 - 🎮 Fanático por Games, adoro praticas esportivas, como o futebol que é paixão hehe..
 
