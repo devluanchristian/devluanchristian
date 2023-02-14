@@ -8,7 +8,7 @@
 ### Sobre mim
 
 - 👨‍💻 Atuo como Estagiario de Desenvolvimento na NetAdmin Software.
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 3° período.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 4° período.
 - 🎮 Fanático por Games, adoro praticas esportivas, como o futebol que é paixão hehe..
 
 ### Tecnologias que eu uso no meu dia a dia 
