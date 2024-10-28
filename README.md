@@ -7,9 +7,8 @@
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=devluanchristian&show_icons=true&theme=dracula)
 ### Sobre mim
 
-- 👨‍💻 Atuo como Analista de Desenvolvimento Jr na NetAdmin Software.
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas, atualmente estou cursando o 5° período.
-- 🎮 Fanático por Games, adoro praticas esportivas, como o futebol que é paixão hehe..
+- 👨‍💻 Analista de Desenvolvimento Jr na NetAdmin Software.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
 ### Tecnologias que eu uso no meu dia a dia 
 
