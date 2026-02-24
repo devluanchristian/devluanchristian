@@ -64,7 +64,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 
-<p align="center">
+<p align="">
   <img height="185" src="https://github-readme-statsfork.vercel.app/api?username=devluanchristian&show_icons=true&theme=tokyonight&all_commits=true&locale=pt-br" />&nbsp;
   <img height="185" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devluanchristian&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
