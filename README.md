@@ -64,7 +64,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 <p align="center">
-  <table border="0">
+  <table >
     <tr>
       <td>
         <img src="https://github-readme-statsfork.vercel.app/api?username=devluanchristian&show_icons=true&theme=tokyonight&all_commits=true&locale=pt-br" />
