@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Luan Christian, tenho 25 anos e sou natural de Minas Gerais. Sou formado em Análise e Desenvolvimento de Sistemas e tenho formação técnica em Informática, onde iniciei minha trajetória no desenvolvimento de software.
+Me chamo Luan Christian, tenho 25 anos e sou natural de Minas Gerais. Sou formado em Análise e Desenvolvimento de Sistemas, onde iniciei minha trajetória no desenvolvimento de software.
 
 Atuo com foco em desenvolvimento back-end, aplicando boas práticas de arquitetura e escrita de código limpo. Tenho experiência com C#, .NET, Node.js e TypeScript, sempre buscando construir aplicações bem estruturadas, escaláveis e de fácil manutenção.
 
